@@ -1,0 +1,28 @@
+#timeDisplay {
+  border: 1px solid white;
+  border-radius: 12px;
+  margin: 20px;
+  color: red;
+  font-size: 70px;
+  font-family: "Courier New", Courier, monospace;
+}
+
+button {
+  width: 80px;
+  height: 30px;
+  border: 1px solid;
+  border-radius: 12px;
+  background-color: #222222;
+  color: white;
+  cursor: pointer;
+  font-family: consolas, monospace;
+}
+#container {
+  padding: 50px 0 50px 0;
+  text-align: center;
+  border: 40px solid #333333;
+  max-width: 500px;
+  min-height: 100px;
+  background-color: #000000;
+  margin: auto;
+}
