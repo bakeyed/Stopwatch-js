@@ -1,2 +1,2 @@
 # Stopwatch-js
- A stpwatch program made using javascript
+ A stopwatch program made using javascript
